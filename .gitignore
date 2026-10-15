@@ -1,0 +1,12 @@
+# Compiled application and test executables
+campus_navigation
+campus_navigation.exe
+test_driver
+test_driver.exe
+module_tests
+module_tests.exe
+location_tests
+location_tests.exe
+
+# Compiler object files
+*.o
